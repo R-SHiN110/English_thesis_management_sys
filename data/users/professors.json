@@ -2,7 +2,7 @@
     {
         "user_id": "prof_1",
         "national_id": "1012345678",
-        "name": "دکتر احمدی",
+        "name": "Dr. Ahmadi",
         "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
         "role": "professor",
         "judge_capacity": 10
@@ -10,7 +10,7 @@
     {
         "user_id": "prof_2",
         "national_id": "1023456789",
-        "name": "دکتر حسینی",
+        "name": "Dr. Hosseini",
         "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
         "role": "professor",
         "judge_capacity": 10

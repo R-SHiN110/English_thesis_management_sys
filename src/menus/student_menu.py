@@ -55,7 +55,7 @@ def request_thesis_course(student):
         input("\nPress Enter to go back...")
         return
 
-    thesis_courses = [c for c in courses if c["title"].startswith("پایان نامه")]
+    thesis_courses = [c for c in courses if c["title"].startswith("Thesis")]
 
     if not thesis_courses:
         print("❌ No thesis courses available in the system.")

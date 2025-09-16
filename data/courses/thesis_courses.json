@@ -1,23 +1,23 @@
 [
     {
         "course_id": "course_1",
-        "title": "پایان نامه",
+        "title": "Thesis",
         "professor_id": "prof_1",
         "year": 1403,
-        "semester": "نیمسال اول",
-        "capacity": 5,
-        "resources": "منابع فلان",
+        "semester": "First Semester",
+        "capacity": 4,
+        "resources": "Specific Resources",
         "sessions_count": 16,
         "units": 4
     },
     {
         "course_id": "course_2",
-        "title": "پایان نامه",
+        "title": "Thesis",
         "professor_id": "prof_2",
         "year": 1403,
-        "semester": "نیمسال دوم",
+        "semester": "Second Semester",
         "capacity": 5,
-        "resources": "منابع بهمان",
+        "resources": "Other Resources",
         "sessions_count": 14,
         "units": 4
     }

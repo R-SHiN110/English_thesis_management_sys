@@ -2,28 +2,28 @@
     {
         "user_id": "student_1",
         "national_id": "0012345678",
-        "name": "علی رضایی",
+        "name": "Ali Rezaei",
         "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
         "role": "student"
     },
     {
         "user_id": "student_2",
         "national_id": "0023456789",
-        "name": "فاطمه محمدی",
+        "name": "Fatemeh Mohammadi",
         "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
         "role": "student"
     },
     {
         "user_id": "student_3",
         "national_id": "0033456789",
-        "name": "ریحانه رضوانی",
+        "name": "Reyhaneh Rezvani",
         "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
         "role": "student"
     },
     {
         "user_id": "student_4",
         "national_id": "0043456789",
-        "name": "عطیه امامی",
+        "name": "Atiyeh Emami",
         "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
         "role": "student"
     }
